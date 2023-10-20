@@ -48,8 +48,9 @@ In the snapshot above, the employee's full names were splitted into first names 
 
 
  Highlight employees whose names begin with the letter 'E' (in yellow). Format the salary column such that the highest SALARY has a green background and the lowest SALARY has a red background:
+ 
 
- ![]()
+ ![](Letter_E.png)
 
 
-In the third worksheet, named "Worksheet3," employees whose names started with the letter 'E' were highlighted in yellow for quick identification. Furthermore, the Salary column was formatted to have a green background for the highest salary and a red background for the lowest salar
+The above snapshot shows employees whose names begins with the letter 'E' and were highlighted in yellow for quick identification. And also, the salary column was formatted in such a way that that the highest salary has a green background while the lowest salary has a red back. 
