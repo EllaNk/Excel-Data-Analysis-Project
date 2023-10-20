@@ -14,9 +14,24 @@ In the course of completing this task, the following skills and concepts were de
 - Handling and identifying duplicates in the dataset
   
 ## Problem Statement:
-1. Data Entry:
+
+Data Entry:
+1.In worksheet1, create a table with 20 rows of information having the fields below:
+- Employee ID
+- Employee full name
+- Department (Communications, Sales, I.T)
+- Salary (between $5000 to $25000)
+- Job type (Part time, Freelance, Contract)
+
+2. Copy and paste table into wooksheet 2 and worksheet 3
+3. In worksheet 1, show only employees who are 'Freelancers' and highlight the ones whose salaries are above $100000
+4. In worksheet 2, split the employees' full names into first name and last name. Check for duplicates and highlight if any (do not delete)
+5. In worksheet 3, highlight employees whose names begin with the letter 'E' (in yellow). Format the salary column such that the highest SALARY has a green background and the lowest SALARY has a red background.
 
 A dataset of 20 rows of employee information was created, consisting of the following fields: Employee ID Employee full name Department (Communications, Sales, IT) Salary (ranging from $5000 to $25000) Job type (Part-time, Freelance, Contract)
 
-3. Freelance Employees with High Salaries:
+ Employees who are 'Freelancers' and highlight the ones whose salaries are above $100000:
+
+ ![]()
+
 In the first worksheet, named "Worksheet1," employees classified as 'freelancers' and employees with salaries exceeding $10,000 were highlighted for easy identification
