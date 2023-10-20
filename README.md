@@ -1,4 +1,4 @@
-# Data Sorting, Filtering, and Formatting
+# Data Entry, Filtering, and Formatting
 
 ## Introduction:
 
