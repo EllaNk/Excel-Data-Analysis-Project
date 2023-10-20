@@ -54,3 +54,8 @@ In the snapshot above, the employee's full names were splitted into first names 
 
 
 The above snapshot shows employees whose names begins with the letter 'E' and were highlighted in yellow for quick identification. And also, the salary column was formatted in such a way that that the highest salary has a green background while the lowest salary has a red back. 
+
+
+## Conclusion:
+
+This Excel task demonstrates basic data entry, manipulation and formatting. It showcases the ability to enter, organize and present data effectively within Excel, making it a valuable skill for various business and analytical purposes.
