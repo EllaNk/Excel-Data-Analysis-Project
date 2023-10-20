@@ -33,12 +33,23 @@ A dataset of 20 rows of employee information was created, consisting of the foll
  Employees who are 'Freelancers' and highlight the ones whose salaries are above $100000:
 
  ![](Freelancers.png)
+ 
 
 The above snapshot shows employees that are'freelancers' and employees with salaries exceeding $10,000 were highlighted for easy identification.
 
+
 Splitting of Full Names and checking of dupicates if any:
 
-![]()
+
+![](Splitting.png)
 
 
-In the second worksheet, named "Worksheet2," the employee full names were split into first names and last names. Duplicated employee names were checked and highlighted.
+In the snapshot above, the employee's full names were splitted into first names and last names. There was no duplicates found.
+
+
+ Highlight employees whose names begin with the letter 'E' (in yellow). Format the salary column such that the highest SALARY has a green background and the lowest SALARY has a red background:
+
+ ![]()
+
+
+In the third worksheet, named "Worksheet3," employees whose names started with the letter 'E' were highlighted in yellow for quick identification. Furthermore, the Salary column was formatted to have a green background for the highest salary and a red background for the lowest salar
