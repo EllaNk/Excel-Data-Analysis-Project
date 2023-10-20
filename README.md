@@ -32,6 +32,13 @@ A dataset of 20 rows of employee information was created, consisting of the foll
 
  Employees who are 'Freelancers' and highlight the ones whose salaries are above $100000:
 
- ![]()
+ ![](Freelancers.png)
 
-In the first worksheet, named "Worksheet1," employees classified as 'freelancers' and employees with salaries exceeding $10,000 were highlighted for easy identification
+The above snapshot shows employees that are'freelancers' and employees with salaries exceeding $10,000 were highlighted for easy identification.
+
+Splitting of Full Names and checking of dupicates if any:
+
+![]()
+
+
+In the second worksheet, named "Worksheet2," the employee full names were split into first names and last names. Duplicated employee names were checked and highlighted.
